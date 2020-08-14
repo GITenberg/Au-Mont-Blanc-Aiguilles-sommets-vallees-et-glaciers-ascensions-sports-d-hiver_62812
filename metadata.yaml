@@ -1,0 +1,40 @@
+_repo: Au-Mont-Blanc-Aiguilles-sommets-vallees-et-glaciers-ascensions-sports-d-hiver_62812
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Auscher, Léon
+    alias: Auscher, Leon
+    birthdate: 1866
+    deathdate: 1943
+    gutenberg_agent_id: '52138'
+    url: http://www.gutenberg.org/2009/agents/52138
+    wikipedia: https://fr.wikipedia.org/wiki/L%C3%A9on_Auscher
+creator:
+  author:
+    agent_name: Tissot, Roger
+    gutenberg_agent_id: '52137'
+    url: http://www.gutenberg.org/2009/agents/52137
+description: ''
+gutenberg_bookshelf:
+- FR Voyages et pays
+- FR Nouveautés
+gutenberg_issued: '2020-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62812'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DQ'
+- !lcsh 'Mountaineering -- Alps, Western'
+- !lcsh 'Chamonix-Mont-Blanc (France) -- Guidebooks'
+- !lcsh 'Blanc, Mont (France and Italy) -- Guidebooks'
+- GITenberg
+tableOfContents: Préface -- L'Envoûtement des cimes -- La Vallée de Chamonix -- Voies
+  d'Accès -- Dans la Nef d'Argentière -- Au Cirque des Géants -- Ténèbres blanches
+  -- Il a neigé sur les hauteurs.
+title: "Au Mont-Blanc\r\nAiguilles, sommets, vallées et glaciers; ascensions, sports\
+  \ d'hiver"
+url: http://www.gutenberg.org/ebooks/62812
