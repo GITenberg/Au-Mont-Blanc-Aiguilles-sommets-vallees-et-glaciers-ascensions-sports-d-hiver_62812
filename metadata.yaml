@@ -1,5 +1,5 @@
 _repo: Au-Mont-Blanc-Aiguilles-sommets-vallees-et-glaciers-ascensions-sports-d-hiver_62812
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Auscher, Léon
@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '52138'
     url: http://www.gutenberg.org/2009/agents/52138
     wikipedia: https://fr.wikipedia.org/wiki/L%C3%A9on_Auscher
+covers:
+- cover_type: archival
+  image_path: 62812-h/images/cover.jpg
 creator:
   author:
     agent_name: Tissot, Roger
     gutenberg_agent_id: '52137'
     url: http://www.gutenberg.org/2009/agents/52137
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62812#Au-Mont-Blanc-Aiguilles-sommets-vallees-et-glaciers-ascensions-sports-d-hiver
 gutenberg_bookshelf:
 - FR Voyages et pays
 - FR Nouveautés
